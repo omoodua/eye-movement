@@ -3,7 +3,7 @@ This is my MIT Project
 # Description
 This is called the  Eye Movement Exercise. This showcases  Eye Movement in the form of a eyeball that follows the mouse curso around.
 # How To Run
-Clone the repository on your local machine and drag index.html on your browser, then its ready to run
+Clone the repository on your local machine and drag bigEyes.html on your browser, then its ready to run
 # future Improvement
 will update the eyeball to a more graphical looking eyeball in 3d.
 # license Information
